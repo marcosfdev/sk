@@ -1,6 +1,6 @@
-# create-svelte
+# sk
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+A Sveltekit + Tailwind CSS starter project with pages, routes, components including Navigation, Newsletter form, and Footer powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
 ## Creating a project
 
